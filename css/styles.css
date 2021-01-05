@@ -207,7 +207,7 @@ html, body {
 .btn-custom {
     border: none;
     padding: 10px;
-    min-width: 120px;
+    min-width: 80px;
     background-color: #FC9C94;
     border: 1px solid #FC9C94;
     text-decoration: none;
