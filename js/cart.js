@@ -49,7 +49,3 @@ function updateCartTotal() {
     total = Math.round(total * 100) / 100;
     document.getElementsByClassName('cart-total-price')[0].innerText = 'Rp' + total;
 }
-
-function confirm() {
-  alert("Terima kasih telah membeli barang kami");
-}
